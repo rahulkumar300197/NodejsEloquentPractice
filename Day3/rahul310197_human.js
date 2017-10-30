@@ -1,5 +1,5 @@
 var data = require('./rahul310197_human.json');
-
+//var
 var mkc = function makehuman()
 { return   function()
             {  if(data.f_name.length<=0 || data.l_name.length<=0 || Number(data.age)<=0 || Number(data.height)<=0 || Number(data.weight)<=0) 
